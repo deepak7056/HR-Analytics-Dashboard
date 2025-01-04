@@ -31,15 +31,15 @@ A comprehensive HR Analytics Dashboard created using **Power BI** and **Excel** 
 
 ## Screenshots
 ### Dashboard Overview
-![Dashboard Screenshot 1](path/to/your-image1.png)
+![Dashboard Screenshot 1](Media/Dashboard_Image_1.png)
 
 ### Drill-Down Analysis
-![Dashboard Screenshot 2](path/to/your-image2.png)
+![Dashboard Screenshot 2](Media/Dashboard_Image_1.png)
 
 ---
 
 ## Video Demonstration
-[Click here to watch the video walkthrough](path/to/your-video.mp4)
+[Download the video](Media/Dashboard_working.mp4)
 
 ---
 
@@ -53,4 +53,4 @@ A comprehensive HR Analytics Dashboard created using **Power BI** and **Excel** 
 
 ## Contact
 Feel free to reach out for any queries or collaborations:  
-[Your Email Address] | [Your LinkedIn Profile]
+[deepakbhatia70561@gmail.com] | [https://www.linkedin.com/in/deepak-bhatia70/]
